@@ -1,2 +1,2 @@
 # Ecommerce-web-application
-by using html ,css,javascript
+by using html,css,javascript
